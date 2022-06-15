@@ -129,7 +129,7 @@ h1,h2,h3 {
     color: var(--oscuro);
 }
 .hero {
-    background-image: url('../img/hero.jpg');
+    background-image: url('../img/hero_map.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 41rem;
